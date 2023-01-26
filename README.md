@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a django html web application. 
-- 🌱 I’m currently learning cybersecurity with the help of tryhackme.
+- 🌱 I’m currently learning cybersecurity with the help of tryhackme.Focused on Rust and Go.
 - 📫 How to reach me: fill out the form on achyuth.madabhushi.com
 - 👯 I’m looking to collaborate on any papers with the goal of publishing in climate change modeling, machine learning, software engineering 
 - 😄 Pronouns: He,him,his
