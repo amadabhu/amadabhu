@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on a django html web application. 
 - 🌱 I’m currently learning cybersecurity with the help of tryhackme. Focused on Rust and Go.
 - 📫 How to reach me: 
-      - fill out the form on achyuthmadabhushi.com \n
-      - email me@achyuthmadabhushi.com \n
-      - https://substack.com/@achyuthhacks \n
+      - - fill out the form on achyuthmadabhushi.com 
+      - - email me@achyuthmadabhushi.com 
+      - - https://substack.com/@achyuthhacks 
 
 - 👯 I’m looking to collaborate on any papers with the goal of publishing in climate change modeling, machine learning, software engineering 
 - 😄 Pronouns: He,him,his
