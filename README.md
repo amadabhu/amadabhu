@@ -9,7 +9,6 @@
 Current Reading List:
 1. https://www.statslab.cam.ac.uk/~rrw1/oc/L01#:~:text=The%20optimality%20equation%20(1.3)%20is,u(xt%2Ct)
 2. https://web.stanford.edu/class/cme241/lecture_slides/Tour-MDP.pdf
-3. 
 
 <!--
 **amadabhu/amadabhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
