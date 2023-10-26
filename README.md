@@ -5,7 +5,7 @@
 - 📫 How to reach me: \
       -fill out the form on achyuthmadabhushi.com \
       -email me@achyuthmadabhushi.com \
-      -https://substack.com/@achyuthhacks \ 
+      -https://substack.com/@achyuthhacks 
 
 - 👯 I’m looking to collaborate on any papers with the goal of publishing in climate change modeling, machine learning, software engineering 
 - 😄 Pronouns: He,him,his
