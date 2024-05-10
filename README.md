@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m working on a django fullstack web application.
-- 🌱 I’m currently learning application security trying to do while using Rust and Go.
+- 🌱 I’m currently learning application security, Rust and Go
 - 📫 How to reach me: \
       -fill out the form on achyuthmadabhushi.com \
       -email me@achyuthmadabhushi.com \
