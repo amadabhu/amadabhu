@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a django html web application. 
-- 🌱 I’m currently learning cybersecurity with the help of tryhackme. Focused on Rust and Go.
+- 🔭 I’m working on a django fullstack web application.
+- 🌱 I’m currently learning application security trying to do while using Rust and Go.
 - 📫 How to reach me: \
       -fill out the form on achyuthmadabhushi.com \
       -email me@achyuthmadabhushi.com \
