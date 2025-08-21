@@ -3,7 +3,6 @@
 - 🔭 I’m working on a enterprise data migration for the Coast Guard.
 - 🌱 I’m currently taking deep learning courses with Nvidia.
 - 📫 How to reach me: \
-      -[DM me on LinkedIn!](https://www.linkedin.com/in/achyuthmadabhushi/)\
       -email me@achyuthmadabhushi.com \
       -https://substack.com/@achyuthhacks 
 
