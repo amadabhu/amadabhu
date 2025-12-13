@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working on a enterprise data migration for the Coast Guard.
-- 🌱 I’m currently taking deep learning courses with Nvidia.
-- 📫 How to reach me: \
-      -email me@achyuthmadabhushi.com \
-      -https://substack.com/@achyuthhacks 
+- 🔭 I’m working on enterprise data applications for the Coast Guard. 
 
 - 😄 Pronouns: He,him,his
 
