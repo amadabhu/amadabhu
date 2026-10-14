@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working on enterprise data applications for the Coast Guard. 
+- 🔭 I’m working on enterprise agentic AI applications across industries. 
 
 - 😄 Pronouns: He,him,his
 
